@@ -39,8 +39,8 @@ This project is a **Japanese Cloud Kitchen** online ordering system built using 
 
 ## 🔗 Project Links
 
-- 🛠️ [Trello Board]([https://your-trello-link.com](https://trello.com/b/fkDZ9613/project-9))
-- 🎨 [Figma Design]([https://your-figma-link.com](https://www.figma.com/design/9t1BHLW2rfVcJtE1ZWR6yR/Sakura-Project?m=auto&t=RKfrhQ4GKZvltDOG-6))
+- 🛠️ [Trello Board](https://trello.com/b/fkDZ9613/project-9)
+- 🎨 [Figma Design](https://www.figma.com/design/9t1BHLW2rfVcJtE1ZWR6yR/Sakura-Project?m=auto&t=RKfrhQ4GKZvltDOG-6)
 - 🧾 [Odoo Live](https://sakura8.odoo.com/)
 
 ---
